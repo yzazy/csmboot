@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Add Addition SSD
+Name[en_US]=Add Addition SSD
+Icon=/zserver/wallpaper/SSD-Drive-icon.png
+Exec=/zserver/wallpaper/aassd.sh
+Comment[en_US]=Add Addition SSD

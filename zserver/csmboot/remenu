@@ -1,0 +1,4 @@
+DEFAULT remenu
+LABEL remenu
+COM32 menu.c32
+APPEND gpxe/remenu

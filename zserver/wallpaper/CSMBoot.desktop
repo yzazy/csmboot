@@ -1,0 +1,9 @@
+
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=CSMBoot
+Name[en_US]=CSMBoot
+Icon=/zserver/wallpaper/csmboot-icon.png
+Exec=/zserver/csmbootview/CSMBoot48
+Comment[en_US]=
